@@ -2,7 +2,6 @@
 
 This repository contains my implementation of the **t-Distributed Stochastic Neighbor Embedding (t-SNE)** algorithm, completed as part of the **Advanced Machine Learning** course at the **Armenian Code Academy**. This project highlights my skills in Machine Learning, Python programming, and hands-on implementation of complex algorithms.
 
----
 
 ### What is t-SNE?
 
@@ -13,7 +12,6 @@ Some key applications of t-SNE include:
 - Understanding clustering patterns in datasets.
 - Preprocessing data for downstream Machine Learning tasks.
 
----
 
 ### Features of This Implementation
 
@@ -26,7 +24,6 @@ Some key applications of t-SNE include:
    - Calculation of symmetric affinities in high and low-dimensional spaces.
    - Iterative optimization with cost monitoring.
 
----
 
 ### Project Outcomes
 
